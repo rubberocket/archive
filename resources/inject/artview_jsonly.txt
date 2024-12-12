@@ -219,8 +219,8 @@
 				date.innerHTML =  "<p><strong><em><small>Finished February 22nd 2023.</small></em></strong></p>";
 			}
 			
-			viewfull.innerHTML = '<a href="../../archive/resources/art/' + ied + format + '" target="_blank">Click the image (or click here) to view a higher-quality version of the image.</a>';
-			preview.innerHTML = '<a href="../../archive/resources/art/' + ied + format + '" target="_blank">' +  '<img src="' + "../archive/resources/images/art/" + ied + "_lq.jpg" + '" width="128" alt="" style="text-align:right;"></a>';
+			viewfull.innerHTML = '<a href="/archive/resources/art/' + ied + format + '" target="_blank">Click the image (or click here) to view a higher-quality version of the image.</a>';
+			preview.innerHTML = '<a href="/archive/resources/art/' + ied + format + '" target="_blank">' +  '<img src="' + "../archive/resources/images/art/" + ied + "_lq.jpg" + '" width="128" alt="" style="text-align:right;"></a>';
 			
 		  }
 		  </script>
