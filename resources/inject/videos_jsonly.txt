@@ -42,7 +42,7 @@
 		  // set preview image
 		  function selectVidById(identifier){
 		  	var iden = identifier.toString();
-			preview.innerHTML = '<a href="/archive/resources/videos/' + iden + '.mp4" target="_blank">' +  '<img src="' + "../archive/resources/images/vidthumb/" + iden + ".jpg" + '" width="128" alt="" style="text-align:right;"></a>';
+			preview.innerHTML = '<a href="/archive/resources/videos/' + iden + '.mp4" target="_blank">' +  '<img src="' + "/archive/resources/images/vidthumb/" + iden + ".jpg" + '" width="128" alt="" style="text-align:right;"></a>';
 			console.log(iden);
 			getDescAndWhatnot(iden);
 		  }
@@ -140,7 +140,7 @@
 				req.innerHTML = "A browser with HTML5 video support or <a href='https://www.videolan.org/vlc/download-windows.html'>the VLC plugin</a>.";
 			}
 			
-			viewfull.innerHTML = '<a href="'../../archive/resources/videos/' + ied + '.jpg" target="_blank">Click the image (or click here) to watch this video!</a>';
+			viewfull.innerHTML = '<a href="'/archive/resources/videos/' + ied + '.jpg" target="_blank">Click the image (or click here) to watch this video!</a>';
 			
 		  }
 		  </script>
