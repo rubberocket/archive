@@ -2,73 +2,73 @@
 			<div style="overflow-y: scroll; display: block; border: black solid 5px; width: 224px; height: 224px;" id="art">
 
 			<!-- latest --> <a href="#" onClick="selectArtById('2024_10_27_adam'); return false;">
-			<img src="/resources/art/previews/2024_10_27_adam.gif" alt="More of Adam the Eyeball!" width="64" height="64"></a>
+			<img src="/archive/resources/art/previews/2024_10_27_adam.gif" alt="More of Adam the Eyeball!" width="64" height="64"></a>
 
 			<a href="#" onClick="selectArtById('2024_10_26_deadpool'); return false;">
-			<img src="/resources/art/previews/2024_10_26_deadpool.gif" alt="Deadpool Sketches" width="64" height="64"></a>
+			<img src="/archive/resources/art/previews/2024_10_26_deadpool.gif" alt="Deadpool Sketches" width="64" height="64"></a>
 
 			<a href="#" onClick="selectArtById('2024_10_26_radiohead'); return false;">
-			<img src="/resources/art/previews/2024_10_26_radiohead.gif" alt="Modified Bears" width="64" height="64"></a>
+			<img src="/archive/resources/art/previews/2024_10_26_radiohead.gif" alt="Modified Bears" width="64" height="64"></a>
 
 			<a href="#" onClick="selectArtById('2024_04_01_sketchbook'); return false;">
-			<img src="/resources/art/previews/2024_04_01_sketchbook.gif" alt="Early 2024 Sketchbook" width="64" height="64"></a>
+			<img src="/archive/resources/art/previews/2024_04_01_sketchbook.gif" alt="Early 2024 Sketchbook" width="64" height="64"></a>
 
 			<a href="#" onClick="selectArtById('2024_10_05_eyeguy'); return false;">
-			<img src="/resources/art/previews/2024_10_05_eyeguy.gif" alt="Adam the Eyeball" width="64" height="64"></a>
+			<img src="/archive/resources/art/previews/2024_10_05_eyeguy.gif" alt="Adam the Eyeball" width="64" height="64"></a>
 
 			<a href="#" onClick="selectArtById('2024_10_03_Scan10015'); return false;">
-			<img src="/resources/art/previews/2024_10_03_Scan10015.gif" alt="Some Clash Sketches" width="64" height="64"></a>
+			<img src="/archive/resources/art/previews/2024_10_03_Scan10015.gif" alt="Some Clash Sketches" width="64" height="64"></a>
 
 			<a href="#" onClick="selectArtById('2024_09_24_bidenxwhat'); return false;">
-			<img src="/resources/art/previews/2024_09_24_bidenxwhat.gif" alt="Biden x What?!" width="64" height="64"></a>
+			<img src="/archive/resources/art/previews/2024_09_24_bidenxwhat.gif" alt="Biden x What?!" width="64" height="64"></a>
 
 			<a href="#" onClick="selectArtById('2024_08_31_PUMKIN'); return false;">
-			<img src="/resources/art/previews/2024_08_31_PUMKIN.gif" alt="pumkin" width="64" height="64"></a>
+			<img src="/archive/resources/art/previews/2024_08_31_PUMKIN.gif" alt="pumkin" width="64" height="64"></a>
 
 			<a href="#" onClick="selectArtById('2024_07_09_unnamedspecies'); return false;">
-			<img src="/resources/art/previews/2024_07_09_unnamedspecies.gif" alt="species i have yet to name" width="64" height="64"></a>
+			<img src="/archive/resources/art/previews/2024_07_09_unnamedspecies.gif" alt="species i have yet to name" width="64" height="64"></a>
 
 			<a href="#" onClick="selectArtById('2024_07_08_okeydokey'); return false;">
-			<img src="/resources/art/previews/2024_07_08_okeydokey.gif" alt="nothing much here i swear" width="64" height="64"></a>
+			<img src="/archive/resources/art/previews/2024_07_08_okeydokey.gif" alt="nothing much here i swear" width="64" height="64"></a>
 
 			<a href="#" onClick="selectArtById('2024_06_27_furry'); return false;">
-			<img src="/resources/art/previews/2024_06_27_furry.gif" alt="is that... a furry" width="64" height="64"></a>
+			<img src="/archive/resources/art/previews/2024_06_27_furry.gif" alt="is that... a furry" width="64" height="64"></a>
 
 			<a href="#" onClick="selectArtById('2024_03_04_jeff'); return false;">
-			<img src="/resources/art/previews/2024_03_04_jeff.gif" alt="Jeff the computer!" width="64" height="64"></a>
+			<img src="/archive/resources/art/previews/2024_03_04_jeff.gif" alt="Jeff the computer!" width="64" height="64"></a>
 
             <a href="#" onClick="selectArtById('2024_02_23_rachel'); return false;">
-			<img src="/resources/art/previews/2024_02_23_rachel.gif" alt="Rachel" width="64" height="64"></a>
+			<img src="/archive/resources/art/previews/2024_02_23_rachel.gif" alt="Rachel" width="64" height="64"></a>
 
 			<a href="#" onClick="selectArtById('2024_02_09_jailbot'); return false;">
-			<img src="/resources/art/previews/2024_02_09_jailbot.gif" alt="Jailbot" width="64" height="64"></a>
+			<img src="/archive/resources/art/previews/2024_02_09_jailbot.gif" alt="Jailbot" width="64" height="64"></a>
 
 			<a href="#" onClick="selectArtById('2024_02_04_fluffy'); return false;">
-			<img src="/resources/art/previews/2024_02_04_fluffy.gif" alt="Fluffy the gorgus" width="64" height="64"></a>
+			<img src="/archive/resources/art/previews/2024_02_04_fluffy.gif" alt="Fluffy the gorgus" width="64" height="64"></a>
 
 			<a href="#" onClick="selectArtById('2023_10_10_guys'); return false;">
-			<img src="/resources/art/previews/2023_10_10_guys.gif" alt="The Blah Guys!" width="64" height="64"></a>
+			<img src="/archive/resources/art/previews/2023_10_10_guys.gif" alt="The Blah Guys!" width="64" height="64"></a>
 
 			<a href="#" onClick="selectArtById('2023_10_10_gorgus'); return false;">
-			<img src="/resources/art/previews/2023_10_10_gorgus.gif" alt="Old Gorgi Designs" width="64" height="64"></a>
+			<img src="/archive/resources/art/previews/2023_10_10_gorgus.gif" alt="Old Gorgi Designs" width="64" height="64"></a>
 
 			<a href="#" onClick="selectArtById('2023_10_01_stuart'); return false;">
-			<img src="/resources/art/previews/2023_10_01_stuart.gif" alt="Stuart the Very, Very Edgy Bat" width="64" height="64"></a>
+			<img src="/archive/resources/art/previews/2023_10_01_stuart.gif" alt="Stuart the Very, Very Edgy Bat" width="64" height="64"></a>
 
 			<a href="#" onClick="selectArtById('2023_10_01_yum'); return false;">
-			<img src="/resources/art/previews/2023_10_01_yum.gif" alt="Yum!" width="64" height="64"></a>
+			<img src="/archive/resources/art/previews/2023_10_01_yum.gif" alt="Yum!" width="64" height="64"></a>
 
 			<a href="#" onClick="selectArtById('2023_09_11_brush'); return false;">
-			<img src="/resources/art/previews/2023_09_11_brush.gif" alt="Brush from Million Champs" width="64" height="64"></a>
+			<img src="/archive/resources/art/previews/2023_09_11_brush.gif" alt="Brush from Million Champs" width="64" height="64"></a>
 
 			<a href="#" onClick="selectArtById('2023_07_23_age'); return false;">
-			<img src="/resources/art/previews/2023_07_23_age.gif" alt="A Bunch of Characters" width="64" height="64"></a>
+			<img src="/archive/resources/art/previews/2023_07_23_age.gif" alt="A Bunch of Characters" width="64" height="64"></a>
 
 			<a href="#" onClick="selectArtById('2023_07_22_atwcloth'); return false;">
-			<img src="/resources/art/previews/2023_07_22_atwcloth.gif" alt="Alastor---no, not that one---wearing a sweater" width="64" height="64"></a>
+			<img src="/archive/resources/art/previews/2023_07_22_atwcloth.gif" alt="Alastor---no, not that one---wearing a sweater" width="64" height="64"></a>
 
 			<!-- oldest i could find --> <a href="#" onClick="selectArtById('2023_02_22_allalie'); return false;">
-			<img src="/resources/art/previews/2023_02_22_allalie.gif" alt="EDGY AS FUCK" width="64" height="64"></a>
+			<img src="/archive/resources/art/previews/2023_02_22_allalie.gif" alt="EDGY AS FUCK" width="64" height="64"></a>
 
           </div>
 		<!-- info -->
@@ -219,8 +219,8 @@
 				date.innerHTML =  "<p><strong><em><small>Finished February 22nd 2023.</small></em></strong></p>";
 			}
 			
-			viewfull.innerHTML = '<a href="../../resources/art/' + ied + format + '" target="_blank">Click the image (or click here) to view a higher-quality version of the image.</a>';
-			preview.innerHTML = '<a href="../../resources/art/' + ied + format + '" target="_blank">' +  '<img src="' + "../resources/images/art/" + ied + "_lq.jpg" + '" width="128" alt="" style="text-align:right;"></a>';
+			viewfull.innerHTML = '<a href="../../archive/resources/art/' + ied + format + '" target="_blank">Click the image (or click here) to view a higher-quality version of the image.</a>';
+			preview.innerHTML = '<a href="../../archive/resources/art/' + ied + format + '" target="_blank">' +  '<img src="' + "../archive/resources/images/art/" + ied + "_lq.jpg" + '" width="128" alt="" style="text-align:right;"></a>';
 			
 		  }
 		  </script>
